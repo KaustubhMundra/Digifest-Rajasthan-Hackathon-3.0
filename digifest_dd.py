@@ -95,7 +95,7 @@ while True:
 
 
 				pygame.mixer.music.load('/Users/kaustubhmundra/Desktop/digifest/clock-alarm2.wav')
-				pygame.mixer.music.play(3)
+				pygame.mixer.music.play(1)
 				
 
 
@@ -105,7 +105,7 @@ while True:
 
 			flag = 0
 
-		cv2.putText(frame, "EAR: {:.2f}".format(ear), (1000, 250),
+		cv2.putText(frame, "Eye Aspect Ratio: {:.2f}".format(ear), (900, 250),
 			cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
 
 	cv2.imshow("Frame", frame)
