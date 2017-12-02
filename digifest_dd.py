@@ -94,7 +94,7 @@ while True:
 				
 
 
-				pygame.mixer.music.load('/Users/kaustubhmundra/Desktop/digifest/Machine+Gun+4.wav')
+				pygame.mixer.music.load('/Users/kaustubhmundra/Desktop/digifest/clock-alarm2.wav')
 				pygame.mixer.music.play(3)
 				
 
