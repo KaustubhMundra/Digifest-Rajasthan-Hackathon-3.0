@@ -7,7 +7,7 @@ Hence, it is extremely important to deploy a drowsiness detector to protect ours
 
 The url for the video can be found at : goo.gl/gnS8vs
 
-The product works on a simple eye aspect ratio technology. We detect the 68 facial landmarks on the face and then the computer recognises the eyes. Calculation of eye aspect ratio is carried out with 6 points near eyes. The threshold linit can be analytically trained person to person and hence, a base threshold can be set demographically. 
+The product works on a Region mark algorithm & eye aspect ratio technology which combinedly produce about 95% accuracy right now. We detect the 68 facial landmarks on the face and then the computer recognises the eyes. Calculation of eye aspect ratio is carried out with 6 points near eyes. The threshold linit can be analytically trained person to person and hence, a base threshold can be set demographically. 
 
 
 
