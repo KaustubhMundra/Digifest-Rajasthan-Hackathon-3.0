@@ -3,7 +3,9 @@ A drowsiness detector to protect people from irresponsible death while fatigue s
 
 Drowsy driving is a major problem on Indian Roads with 20-30% of car accidents and 57% of truck accidents being caused due to it. It is known that for a person that did not have sleep for 18 hours, the Blood Alcohol Concentration(BAC) is equivalent to 0.05 and for 24 hours, it is equivalent to 0.10. A legally drunk person has a BAC of 0.08, hence multiple people get struck with accidents being struck with fatigue over multiple days.
 
-Hence, it is extremely important to deploy a drowsiness detector to protect ourselves.
+In trains too, 74% of SPAD (Signal Passing at Danger) by passenger trains were due to lack of alertness (2016 - 2017).
+
+Hence, it is extremely important to deploy a drowsiness detector in trains and cars to protect ourselves.
 
 The url for the video can be found at : goo.gl/gnS8vs
 
